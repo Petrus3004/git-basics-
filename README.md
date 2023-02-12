@@ -1,3 +1,3 @@
 # git-basics-
 Vol 2
-# my second project
+# my second git project
